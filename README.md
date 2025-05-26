@@ -1,6 +1,6 @@
 # FGG-music-code
 
-[Demo](https://huajianduzhuo-code.github.io/FGG-diffusion-music/) | [Paper](https://arxiv.org/abs/2410.0843)
+[Demo](https://huajianduzhuo-code.github.io/FGG-diffusion-music/) | [Paper](https://arxiv.org/abs/2410.08435)
 
 This is the code repository of the paper:
 
