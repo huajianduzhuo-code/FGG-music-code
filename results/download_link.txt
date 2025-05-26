@@ -1,0 +1,9 @@
+The 'results' folder contains the following structure:
+
+- `model-separate_melody_accompaniment-/`: Contains model checkpoints for the separate melody and accompaniment mode.
+- `model-combine_melody_accompaniment-/`: Contains model checkpoints for the combined melody and accompaniment mode.
+
+Download the contents using the following link:
+https://drive.google.com/file/d/18GPmoH6HWk6Ty1OXBBiQC6ugXMmzdScx/view?usp=drive_link
+
+You can also train your own model using our training script.
