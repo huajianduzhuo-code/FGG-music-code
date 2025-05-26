@@ -106,12 +106,11 @@ After training the model, you can use it to generate new musical pieces. The rep
 1. `generation.ipynb`: Basic generation notebook that demonstrates how to:
    - Load a trained model
    - Generate new musical pieces using chord conditions
-   - Save and visualize the generated results
+   - Save the generated results into .mid and .wav files
 
 2. `generation_style.ipynb`: Advanced generation notebook that includes:
    - Style-based generation capabilities
    - Additional control over the generation process
-   - More detailed visualization and analysis tools
 
 To use the generation notebooks:
 
@@ -125,7 +124,7 @@ pip install jupyter
 jupyter notebook
 ```
 
-3. Open either `generation.ipynb` or `generation_style.ipynb` in your browser
+1. Open either `generation.ipynb` or `generation_style.ipynb` in your browser
 
 4. Follow the notebook instructions to:
    - Load your trained model
