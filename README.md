@@ -42,6 +42,17 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+### 0. Downloading Data and Pre-trained Checkpoints
+
+The data and pre-trained checkpoints can be downloaded and added to the repository. These are located in the following directories:
+
+- `data/pop909_data`: Contains training data (We use the same dataset files as [whole-song-gen](https://github.com/ZZWaang/whole-song-gen))
+- `results/`: Contains the model checkpoints
+
+Download them using the corresponding links provided in the `download_link.txt` files located in each directory.
+
+For example, you can find the download link for the POP909 dataset in `data/pop909_data/download_link.txt`.
+
 
 ### 1. Data Generation
 
@@ -155,14 +166,3 @@ FGG-music-code/
 ├── generation_style.ipynb        # Advanced style-based generation notebook
 └── requirements.txt              # Project dependencies
 ```
-
-## Downloading Data and Pre-trained Checkpoints
-
-The data and pre-trained checkpoints can be downloaded and added to the repository. These are located in the following directories:
-
-- `data/pop909_data`: Contains training data (We use the same dataset files as [whole-song-gen](https://github.com/ZZWaang/whole-song-gen))
-- `results/`: Contains the model checkpoints
-
-Download them using the corresponding links provided in the `download_link.txt` files located in each directory.
-
-For example, you can find the download link for the POP909 dataset in `data/pop909_data/download_link.txt`.
